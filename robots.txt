@@ -1,0 +1,20 @@
+User-agent: *
+Allow: /
+
+# AI / Generative Engine crawlers (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://jiangsu-liangyi.github.io/hastelloy-x-forgings/sitemap.xml
